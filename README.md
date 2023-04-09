@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 🌱 I’m currently on my self-taught journey to become full stack developer. While I code , I draw and paint too.
+currently live in Portland Maine
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
