@@ -1,8 +1,7 @@
 ![Header](./github-header-image.png)
 ### Hi there 👋
 
-🌱 I’m currently on my self-taught journey to become a full stack developer. While I code , I draw and paint too.
-Currently live in Portland Maine.
+🌱 I’m currently studying Computer Science at Southen Maine Community College, working toward becoming a full-stack developer. Before college, I taught myself programming and have built a strong foundation in coding. Besides coding, I also enjoy drawing and painting. I live in Portland, Maine.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
